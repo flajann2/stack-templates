@@ -1,0 +1,19 @@
+* Note Well
+  I have "hijacked" the stack-templates repo
+  so that I can configure it to my own liking, 
+  like using .org instead of .md, MIT as 
+  a default license, etc.
+
+  This is a Work In Progress, so many of
+  the .hsfiles may not have been altered by me.
+
+  You are welcome to use this or fork this for 
+  your own projects if you like, but keep in mind
+  I will not be maintaining this for anyone besides
+  myself.
+
+  That policy may change in the near future.
+
+** My basic mods
+   Currently, they are all in basic.hsfiles.
+
